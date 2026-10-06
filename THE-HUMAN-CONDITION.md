@@ -222,4 +222,4 @@ For discussion, these are the places where I think a reader can most profitably 
 - For justice, read Lear IV.1, IV.6, V.3 straight through.
 - For what love is, read Twelfth Night II.4 (patience on a monument), Troilus V.2 (this is and is not Cressid), Antony V.2 (the dream Antony), and Sonnet 138.
 
-*Three works were still being read when this was written: Venus and Adonis, The Rape of Lucrece, and the shorter poems. Their notes will be added to `notes/` and folded in on the next pass.*
+*Notes for all 44 works are in `notes/`. The three read last (Venus and Adonis, The Rape of Lucrece, the shorter poems) confirm the pattern above rather than add to it: Tarquin lists every cost of the deed and proceeds; Adonis's "not yet" is right and he is dead by morning; the woman of A Lover's Complaint knows the man is false and says she would fall again. They are not yet woven into the body of this essay.*
